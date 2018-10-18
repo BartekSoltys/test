@@ -6,3 +6,4 @@ git remote add origin https://github.com/BartekSoltys/test.git
 git push -u origin master
 test
 test2
+test3
